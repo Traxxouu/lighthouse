@@ -1,0 +1,32 @@
+/* Fichier CSS non minifié avec des styles redondants */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+}
